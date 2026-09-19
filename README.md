@@ -160,3 +160,13 @@ Automated **data-quality validation framework** for SIOP planning workbooks.
 <img src="https://streak-stats.demolab.com?user=Gayu241&theme=tokyonight&hide_border=true&border_radius=12" height="180"/>
 
 </div>
+
+---
+
+## 🐍 Contribution Activity
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Gayu241&bg_color=ffffff&color=667eea&line=764ba2&point=667eea&area=true&hide_border=true" width="95%"/>
+
+</div>
