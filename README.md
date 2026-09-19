@@ -15,7 +15,7 @@ Building data-driven solutions, intelligent automation and AI-powered applicatio
 
 <br>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](YOUR_LINKEDIN_URL)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gayathrir24/)
 
 [![GitHub](https://img.shields.io/badge/GitHub-Gayu241-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Gayu241)
 
