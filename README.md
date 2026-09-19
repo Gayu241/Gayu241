@@ -36,7 +36,6 @@ I'm a **Data Engineer** passionate about building data-driven solutions, intelli
 
 💡 I enjoy turning messy business problems into **automated, scalable and intelligent solutions**.
 
----
 
 ## 🛠️ Tech Stack
 
@@ -78,7 +77,6 @@ I'm a **Data Engineer** passionate about building data-driven solutions, intelli
 <img src="https://img.shields.io/badge/Power%20Apps-742774?style=for-the-badge&logo=powerapps&logoColor=white"/>
 
 </div>
----
 
 ## 🚀 Featured Projects
 
@@ -150,5 +148,21 @@ Automated **data-quality validation framework** for SIOP planning workbooks.
 </tr>
 
 </table>
+
+</div>
+
+---
+
+## 📊 GitHub Analytics
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=Gayu241&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12&include_all_commits=true" height="180"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gayu241&layout=compact&theme=tokyonight&hide_border=true&border_radius=12" height="180"/>
+
+<br><br>
+
+<img src="https://streak-stats.demolab.com?user=Gayu241&theme=tokyonight&hide_border=true&border_radius=12" height="180"/>
 
 </div>
