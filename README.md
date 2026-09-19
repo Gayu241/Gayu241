@@ -151,7 +151,6 @@ Automated **data-quality validation framework** for SIOP planning workbooks.
 
 </div>
 
----
 
 ## 📊 GitHub Analytics
 
@@ -161,12 +160,15 @@ Automated **data-quality validation framework** for SIOP planning workbooks.
 
 </div>
 
----
 
-## 🐍 Contribution Activity
+## 🐍 Contribution Journey
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Gayu241&bg_color=ffffff&color=667eea&line=764ba2&point=667eea&area=true&hide_border=true" width="95%"/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Gayu241/Gayu241/output/github-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Gayu241/Gayu241/output/github-snake.svg">
+  <img alt="GitHub contribution snake" src="https://raw.githubusercontent.com/Gayu241/Gayu241/output/github-snake.svg">
+</picture>
 
 </div>
