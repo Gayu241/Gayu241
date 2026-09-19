@@ -40,23 +40,39 @@ I'm a **Data Engineer** passionate about building data-driven solutions, intelli
 
 <div align="center">
 
-### 💻 Languages & Data
+### 💻 Languages & Development
 
-<img src="https://skillicons.dev/icons?i=python,sql" />
+<img src="https://skillicons.dev/icons?i=python,sql,git,github,vscode,fastapi" />
 
-### ☁️ Cloud & Engineering
+<br><br>
+
+### ☁️ Cloud & Data Engineering
 
 <img src="https://skillicons.dev/icons?i=azure,databricks" />
 
-### 📊 BI & Visualization
+<br><br>
+
+### 📊 Business Intelligence
 
 <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
 <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" />
+<img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" />
 
-### 🤖 AI
+<br><br>
+
+### 🤖 AI & Intelligent Automation
 
 <img src="https://img.shields.io/badge/Generative%20AI-7B61FF?style=for-the-badge" />
 <img src="https://img.shields.io/badge/RAG-FF6B6B?style=for-the-badge" />
 <img src="https://img.shields.io/badge/AI%20Agents-4CAF50?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Python%20Automation-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+
+<br><br>
+
+### 🔗 APIs & Microsoft Ecosystem
+
+<img src="https://img.shields.io/badge/Microsoft%20Graph-5E5CE6?style=for-the-badge&logo=microsoft&logoColor=white" />
+<img src="https://img.shields.io/badge/Power%20Automate-0066FF?style=for-the-badge&logo=powerautomate&logoColor=white" />
+<img src="https://img.shields.io/badge/Power%20Apps-742774?style=for-the-badge&logo=powerapps&logoColor=white" />
 
 </div>
