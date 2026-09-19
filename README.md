@@ -9,7 +9,7 @@
 
 # 👋 Hey, I'm Gayathri
 
-### 💻 Data Engineer | 🤖 AI/ML | ⚡ Automation | 📊 Analytics
+### 💻 Data Engineer | 🤖 AI & GenAI | ☁️ Azure & Databricks | ⚡ Automation
 
 Building data-driven solutions, intelligent automation and AI-powered applications.
 
@@ -25,12 +25,12 @@ Building data-driven solutions, intelligent automation and AI-powered applicatio
 
 ## 👩‍💻 About Me
 
-I'm a **Data Engineer** passionate about building data-driven solutions, intelligent automation and AI-powered applications.
+I'm a **Data Engineer** focused on building scalable data solutions, intelligent automation and AI-powered applications. I enjoy turning complex business problems into practical, reliable and automated solutions.
 
-🔹 **Data Engineering** — Python, SQL, Azure & Databricks  
-🔹 **Business Intelligence** — Power BI & Tableau  
-🔹 **AI & Automation** — Generative AI, RAG, AI Agents & Python automation  
-🔹 **Data Solutions** — APIs, ETL pipelines, data validation & workflow automation  
+🔹 **Data Engineering** — Python, SQL, Azure, Databricks & ETL  
+🔹 **Business Intelligence** — Power BI, Tableau & data visualization  
+🔹 **AI & GenAI** — RAG, AI Agents, LLM applications & intelligent automation  
+🔹 **Data Solutions** — APIs, data validation, workflow automation & analytics
 
 🎓 Currently pursuing my Master's in **Artificial Intelligence & Machine Learning**.
 
@@ -41,9 +41,9 @@ I'm a **Data Engineer** passionate about building data-driven solutions, intelli
 
 <div align="center">
 
-**💻 Languages & Development**
+**💻 Development & Programming**
 
-<img src="https://skillicons.dev/icons?i=python,git,github,vscode,fastapi" height="45"/>
+<img src="https://skillicons.dev/icons?i=python,sql,git,github,vscode,fastapi" height="45"/>
 
 <br>
 
