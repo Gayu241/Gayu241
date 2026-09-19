@@ -43,14 +43,12 @@ I'm a **Data Engineer** focused on building scalable data solutions, intelligent
 
 **💻 Development & Programming**
 
-<img src="https://skillicons.dev/icons?i=python,sql,git,github,vscode,fastapi" height="40"/>
-
+<img src="https://skillicons.dev/icons?i=python,git,github,vscode,fastapi" height="40"/>
+<img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" height="40"/>
 
 **☁️ Cloud & Data Engineering**
 
-<img src="https://skillicons.dev/icons?i=azure,databricks" height="45"/>
-
-<br>
+<img src="https://skillicons.dev/icons?i=azure,databricks" height="40"/>
 
 **📊 Business Intelligence**
 
@@ -58,16 +56,12 @@ I'm a **Data Engineer** focused on building scalable data solutions, intelligent
 <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white"/>
 <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white"/>
 
-<br>
-
 **🤖 AI & Intelligent Automation**
 
 <img src="https://img.shields.io/badge/Generative%20AI-7B61FF?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/RAG-FF6B6B?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/AI%20Agents-4CAF50?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Python%20Automation-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-
-<br>
 
 **🔗 Microsoft Ecosystem**
 
