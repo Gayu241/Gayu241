@@ -36,36 +36,27 @@ I'm a **Data Engineer** passionate about building data-driven solutions, intelli
 
 💡 I enjoy turning messy business problems into **automated, scalable and intelligent solutions**.
 
----
-
 ## 🛠️ Tech Stack
 
 <div align="center">
 
-### 💻 Programming & Data
+### 💻 Languages & Data
 
-<p>
 <img src="https://skillicons.dev/icons?i=python,sql" />
-</p>
 
-### ☁️ Cloud & Data Engineering
+### ☁️ Cloud & Engineering
 
-<p>
 <img src="https://skillicons.dev/icons?i=azure,databricks" />
-</p>
 
-### 📊 Analytics & Visualization
+### 📊 BI & Visualization
 
-<p>
 <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
 <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" />
-</p>
 
-### 🤖 AI & Automation
+### 🤖 AI
 
-<p>
 <img src="https://img.shields.io/badge/Generative%20AI-7B61FF?style=for-the-badge" />
 <img src="https://img.shields.io/badge/RAG-FF6B6B?style=for-the-badge" />
 <img src="https://img.shields.io/badge/AI%20Agents-4CAF50?style=for-the-badge" />
-</p>
+
 </div>
