@@ -45,6 +45,7 @@ I'm a **Data Engineer** focused on building scalable data solutions, intelligent
 
 <img src="https://skillicons.dev/icons?i=python,sql,git,github,vscode,fastapi" height="40"/>
 
+
 **☁️ Cloud & Data Engineering**
 
 <img src="https://skillicons.dev/icons?i=azure,databricks" height="45"/>
