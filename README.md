@@ -1,5 +1,12 @@
 <div align="center">
 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=220&section=header&text=GAYATHRI&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=DATA%20ENGINEER%20%7C%20AI%2FML%20%7C%20AUTOMATION&descAlignY=60&descSize=18&animation=fadeIn" width="100%"/>
+
+<div align="center">
+
+
+</div>
+
 # 👋 Hey, I'm Gayathri
 
 ### 💻 Data Engineer | 🤖 AI/ML | ⚡ Automation | 📊 Analytics
