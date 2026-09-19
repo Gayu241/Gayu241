@@ -36,7 +36,6 @@ I'm a **Data Engineer** focused on building scalable data solutions, intelligent
 
 💡 I enjoy turning messy business problems into **automated, scalable and intelligent solutions**.
 
-
 ## 🛠️ Tech Stack
 
 <div align="center">
@@ -48,13 +47,14 @@ I'm a **Data Engineer** focused on building scalable data solutions, intelligent
 
 **☁️ Cloud & Data Engineering**
 
-<img src="https://skillicons.dev/icons?i=azure,databricks" height="40"/>
+<img src="https://skillicons.dev/icons?i=azure,aws,gcp,databricks" height="40"/>
 
 **📊 Business Intelligence**
 
 <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
 <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white"/>
 <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white"/>
+<img src="https://img.shields.io/badge/Amazon%20QuickSight-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/>
 
 **🤖 AI & Intelligent Automation**
 
