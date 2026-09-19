@@ -78,3 +78,77 @@ I'm a **Data Engineer** passionate about building data-driven solutions, intelli
 <img src="https://img.shields.io/badge/Power%20Apps-742774?style=for-the-badge&logo=powerapps&logoColor=white"/>
 
 </div>
+---
+
+## 🚀 Featured Projects
+
+<div align="center">
+
+<table>
+<tr>
+
+<td width="50%" valign="top">
+
+### 🤖 Context Drift Multi-Agent Framework
+
+Research implementation for **detecting context drift and adaptive recovery in long-running Generative AI systems**.
+
+**Python · GenAI · Multi-Agent Systems**
+
+<a href="https://github.com/Gayu241/context-drift-multi-agent-framework">
+<img src="https://img.shields.io/badge/VIEW%20PROJECT-667EEA?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</td>
+
+<td width="50%" valign="top">
+
+### 📦 Shipment Automation
+
+Enterprise workflow automation built using **Python, Excel VBA and process automation**.
+
+**Python · VBA · Excel · Automation**
+
+<a href="https://github.com/Gayu241/shipment-automation-portfolio">
+<img src="https://img.shields.io/badge/VIEW%20PROJECT-764BA2?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%" valign="top">
+
+### 📊 Namma Yatri Power BI
+
+Interactive analysis of ride-hailing data to understand **demand patterns, operations and user behaviour**.
+
+**Power BI · DAX · Data Analytics**
+
+<a href="https://github.com/Gayu241/NammaYatri-Power-BI-Dashboard">
+<img src="https://img.shields.io/badge/VIEW%20PROJECT-667EEA?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</td>
+
+<td width="50%" valign="top">
+
+### 🔍 Data Health Validator
+
+Automated **data-quality validation framework** for SIOP planning workbooks.
+
+**Python · Excel VBA · Data Quality**
+
+<a href="https://github.com/Gayu241/data-health-validator">
+<img src="https://img.shields.io/badge/VIEW%20PROJECT-764BA2?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</td>
+
+</tr>
+
+</table>
+
+</div>
