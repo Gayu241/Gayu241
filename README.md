@@ -131,7 +131,7 @@ Automated **data-quality validation framework** for SIOP planning workbooks.
 
 **Python · Excel VBA · Data Quality**
 
-<a href="https://github.com/Gayu241/data-health-validator">
+<a href="https://github.com/Gayu241/data-health-validator-">
 <img src="https://img.shields.io/badge/VIEW%20PROJECT-764BA2?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
