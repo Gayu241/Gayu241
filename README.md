@@ -117,7 +117,7 @@ Interactive analysis of ride-hailing data to understand **demand patterns, opera
 
 **Power BI · DAX · Data Analytics**
 
-<a href="https://github.com/Gayu241/NammaYatri-Power-BI-Dashboard">
+<a href="https://github.com/Gayu241/NammaYatri-Power-BI-Dashboard-">
 <img src="https://img.shields.io/badge/VIEW%20PROJECT-667EEA?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
