@@ -27,12 +27,11 @@ Building data-driven solutions, intelligent automation and AI-powered applicatio
 
 I'm a **Data Engineer** focused on building scalable data solutions, intelligent automation and AI-powered applications. I enjoy turning complex business problems into practical, reliable and automated solutions.
 
-🔹 **Data Engineering** — Python, SQL, Azure, Databricks & ETL  
-🔹 **Business Intelligence** — Power BI, Tableau & data visualization  
-🔹 **AI & GenAI** — RAG, AI Agents, LLM applications & intelligent automation  
-🔹 **Data Solutions** — APIs, data validation, workflow automation & analytics
+🔹 **Data Engineering** - Python, SQL, Azure, Databricks & ETL  
+🔹 **Business Intelligence** - Power BI, Tableau & data visualization  
+🔹 **AI & GenAI** - RAG, AI Agents, LLM applications & intelligent automation  
+🔹 **Data Solutions** - APIs, data validation, workflow automation & analytics
 
-🎓 Currently pursuing my Master's in **Artificial Intelligence & Machine Learning**.
 
 💡 I enjoy turning messy business problems into **automated, scalable and intelligent solutions**.
 
